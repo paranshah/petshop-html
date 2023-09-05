@@ -1,0 +1,2119 @@
+/* ========================= Extra small area start ======================= */
+@media (max-width: 575.99px) {
+
+    .reg-cust-modal .log-cust-inner,
+    .reg-cust-modal .reg-cust-inner {
+        margin: 25px auto auto auto;
+        width: 290px;
+        overflow: scroll;
+    }
+
+    .ban-button .next-arrow {
+        left: 22px;
+        top: 44%;
+        padding: 1px 8px;
+        transform: translateY(-44%);
+        -webkit-transform: translateY(-44%);
+        -moz-transform: translateY(-44%);
+        -ms-transform: translateY(-44%);
+        -o-transform: translateY(-44%);
+    }
+
+    .ban-button .prev-arrow {
+        right: 22px;
+        top: 44%;
+        padding: 1px 8px;
+        transform: translateY(-44%);
+        -webkit-transform: translateY(-44%);
+        -moz-transform: translateY(-44%);
+        -ms-transform: translateY(-44%);
+        -o-transform: translateY(-44%);
+    }
+
+    #category {
+        padding: 30px 0;
+    }
+
+    .cat-slider-items {
+        margin: 0 12px;
+    }
+    .cate-slider .cat-button .Cnext-arrow {
+        left: -8px;
+        top: 33%;
+        padding: 7px 10px;
+    }
+    .cate-slider .cat-button .Cprev-arrow {
+        right: -8px;
+        top: 33%;
+        padding: 7px 10px;
+    }
+
+    #selling {
+        margin-bottom: 40px;
+    }
+
+    .selling-header {
+        margin-bottom: 50px;
+    }
+
+    .selling-bottom .sellb-img {
+        margin-bottom: 35px;
+    }
+
+    #product {
+        padding-top: 30px;
+    }
+
+    .product-header {
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    .phd-right {
+        text-align: center !important;
+        margin-top: 30px;
+    }
+
+    .product-area .prod-area-left {
+        margin-bottom: 40px;
+    }
+
+    #arrivals {
+        margin: 50px 0;
+    }
+
+    .arrivals-head {
+        text-align: center;
+    }
+
+    .arrivals-head .head-right {
+        text-align: center !important;
+        margin-top: 30px;
+    }
+
+    .arrivals-area .arrivals-item .arrivals-img a {
+        display: block;
+    }
+
+    .arrivals-btm {
+        margin-top: 20px;
+    }
+
+    .arrivals-btm {
+        background: url(../images/bg-support-pet.jpg) no-repeat top center/cover !important;
+        padding: 50px 20px !important;
+    }
+
+    .arrib-left {
+        margin-bottom: 120px;
+    }
+
+    .arrivals-btm a {
+        word-break: break-word;
+    }
+
+    .arrivals-area .arrivals-item .arrivals-text .review ul {
+        flex-wrap: wrap;
+    }
+
+    .arrivals-area .arrivals-item .arrivals-text .review {
+        margin-top: 15px;
+    }
+
+    .arrivals-area .arrivals-item .arrivals-text .review ul a {
+        margin-bottom: 10px;
+    }
+    .arrivals-area .arrivals-item .shop-icon i {
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .arrivals-area .arrivals-item .shop-icon {
+        right: 10px;
+        bottom: 20px;
+    }
+
+    #service {
+        margin: 65px 0;
+    }
+
+    .service-head {
+        text-align: center;
+    }
+
+    .service-head .head-right {
+        text-align: center !important;
+        margin-top: 30px;
+    }
+
+    .service-row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .service-row .service-item {
+        width: 100%;
+        padding: 25px 10px;
+        border: 1px solid #eee;
+        transition: all linear .2s;
+        margin-bottom: 20px;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+
+    .choose-head h2 {
+        font-size: 39px;
+    }
+
+    #choose {
+        padding: 25px 0;
+    }
+
+    .choose-area ul li::after {
+        height: 137px;
+    }
+
+    #partner {
+        margin-top: 60px;
+        margin-bottom: 50px;
+    }
+
+    .partner-head {
+        text-align: center;
+    }
+
+    .partner-head .head-right {
+        text-align: center !important;
+        margin-top: 30px;
+    }
+
+    .partner-area .partner-item {
+        width: 123px;
+        margin: 10px 12px;
+    }
+
+    #blog {
+        margin-bottom: 30px;
+    }
+
+    .blog-head {
+        margin-bottom: 40px;
+    }
+
+    .blog-area .blog-slider .slider-item {
+        padding-bottom: 160px;
+    }
+
+    .blog-area .blog-slider .slider-item .slider-text {
+        bottom: -3px;
+    }
+
+    .footer-top {
+        padding-top: 50px;
+    }
+
+    .footer-top .fot-topl .call {
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+
+    .fot-topr {
+        margin-top: 30px;
+    }
+
+    .footer-top .fot-topr .input form input {
+        width: 100%;
+    }
+
+    .footer-top .fot-topr .input button {
+        padding: 11px 12px;
+    }
+
+    .footer-top .fot-topr .input form input::placeholder {
+        font-size: 14px;
+    }
+
+    .fot-btmr {
+        text-align: center !important;
+        margin-top: 30px;
+    }
+
+    .footer-top .fot-topr .input button {
+        position: unset;
+        width: 100%;
+        margin-top: 20px;
+        border-radius: 30px;
+        -webkit-border-radius: 30px;
+        -moz-border-radius: 30px;
+        -ms-border-radius: 30px;
+        -o-border-radius: 30px;
+        font-size: 18px;
+    }
+
+    .bttb h3 {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        right: 25px;
+        bottom: 55px;
+    }
+
+    /* ------------------- Blog page start --------------- */
+    #breadcum {
+        padding: 40px 0 !important;
+        margin-bottom: 40px;
+    }
+
+    .bread-text span {
+        font-size: 20px;
+    }
+
+    .bread-text span a {
+        font-size: 20px;
+    }
+
+    .blog-post-category {
+        margin-top: 10px;
+    }
+
+    .blog-post-text {
+        margin-bottom: 30px;
+    }
+
+    .blog-post-sidebar .blog-sidebar-item .recentpost .recent-post-item {
+        margin-bottom: 30px;
+    }
+
+    .blog-post-sidebar .blog-sidebar-item .blog-Tag .blog-Tag-item li {
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 20px;
+    }
+
+    .blog-post-sidebar .blog-sidebar-item .search .search-input input {
+        width: 100%;
+    }
+
+    /* ------------------- Blog page end --------------- */
+
+    /* ------------------- about us page start --------------- */
+    #aboutus {
+        margin: 50px 0;
+    }
+
+    .customer-service {
+        margin: 40px 0;
+    }
+
+    .customer-service .service-text .text-title h2 {
+        margin-top: 20px;
+    }
+
+    .team-row {
+        flex-wrap: wrap;
+        justify-content: unset;
+    }
+
+    .team .team-row .team-item {
+        margin-bottom: 25px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .team {
+        margin: 40px 0;
+    }
+
+    /* ------------------- about us page end --------------- */
+
+    /* ------------------- best seller page start --------------- */
+    #best-seller {
+        margin-bottom: 40px;
+    }
+
+    .best-selliing-nav {
+        text-align: center;
+    }
+
+    .best-selliing-nav button {
+        margin: 0 5px 15px 5px;
+    }
+
+    .selling-item .itmes-slider .item-inner .item-img .item-icon {
+        position: absolute;
+        right: 10px;
+        top: 17%;
+    }
+
+    .selling-item .itmes-slider .item-inner .item-text .review i {
+        font-size: 13px;
+    }
+
+    .selling-item .itmes-slider .item-inner .item-text .item-price h4 {
+        font-size: 18px;
+    }
+
+    .selling-item .itmes-slider .item-inner .item-cart a i {
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .selling-item .itmes-slider .item-inner .item-cart {
+        right: 10px;
+        bottom: 20px;
+    }
+
+    .selling-item .itmes-slider .item-inner .item-img .item-icon ul li a i {
+        font-size: 13px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+        margin: 3px 0;
+    }
+
+    /* ------------------- best seller page end --------------- */
+
+    /* ------------------- contact  page start --------------- */
+    .contact-info-right .info-form input {
+        width: 100%;
+    }
+
+    .contact-info {
+        margin: 30px 0;
+    }
+
+    .identity {
+        display: block !important;
+    }
+
+    .contact-info-right .info-form .contact-info-btn button {
+        width: 100%;
+    }
+
+    /* ------------------- contact  page end --------------- */
+
+    /* ------------------- Customer login page start --------------- */
+    #customer-login {
+        margin: 30px 0;
+    }
+
+    .login-content .register-customer .login-information .submit-btn button {
+        margin-bottom: 20px;
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .login-content .register-customer .login-information .submit-btn a {
+        display: block;
+        text-align: center;
+    }
+
+    .login-content .register-customer,
+    .login-content .new-customer {
+        min-height: 275px;
+    }
+
+    .login-content .new-customer button {
+        margin-right: 0;
+        width: 100%;
+    }
+
+    /* ------------------- Customer login page end --------------- */
+
+    /* ------------------- faqs page start --------------- */
+    .faq-accordion .faq-accordion-title h5 {
+        font-size: 20px
+    }
+
+    .faq-accordion .accordion-item .accordion-button {
+        border: none;
+        box-shadow: none;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    /* ------------------- faqs page end --------------- */
+
+    /* ------------------- shop page start --------------- */
+
+
+    .res-shop-area-left {
+        position: fixed;
+        left: -200%;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.8);
+        z-index: 9999999;
+        overflow: scroll;
+        transition: all linear .2s;
+        -webkit-transition: all linear .2s;
+        -moz-transition: all linear .2s;
+        -ms-transition: all linear .2s;
+        -o-transition: all linear .2s;
+    }
+
+    .sarea-left {
+        background: #fff;
+        padding-top: 70px;
+        width: 320px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+    }
+
+    .shop-area .sarea-left .price .price-range .bar input {
+        width: 100%;
+    }
+
+    .shop-area .sarea-right .shop-item .list-item-inner .item-img .item-icon ul li a i {
+        font-size: 13px;
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+        margin: 3px 0;
+    }
+
+    .shop-area .sarea-right .shop-item .list-item-inner .item-img .item-icon {
+        right: 15px;
+    }
+
+    .shop-area .sarea-right .shop-item .list-item-inner .item-text .review i {
+        font-size: 12px;
+    }
+
+    .shop-area .sarea-right .shop-item .list-item-inner .item-cart a i {
+        font-size: 13px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .shop-area .sarea-right .shop-item .list-item-inner .item-cart {
+        position: absolute;
+        right: 8px;
+        bottom: 15px;
+    }
+
+    .shop-area .sarea-right .sright-head .srhr .sort .sorts {
+        border-radius: 30px;
+        outline: 0;
+        border: 1px solid #eee;
+        width: 100px;
+        font-size: 14px;
+    }
+
+    /* ------------------- shop page end --------------- */
+
+    /* ------------------- features page start --------------- */
+    .res-feature-area-left {
+        position: fixed;
+        left: -200%;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.8);
+        z-index: 9999999;
+        overflow: scroll;
+        transition: all linear .2s;
+        -webkit-transition: all linear .2s;
+        -moz-transition: all linear .2s;
+        -ms-transition: all linear .2s;
+        -o-transition: all linear .2s;
+    }
+
+    .farea-left {
+        background: #fff;
+        padding-top: 70px;
+        width: 320px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+    }
+
+    .Features-area .farea-right .fright-head .srhr .sort .sorts {
+        width: 100px;
+        font-size: 14px;
+        font-weight: 400;
+        font-family: var(--outfit);
+    }
+
+    .Features-area .farea-left .price .price-range .bar input {
+        width: 100%;
+    }
+
+    .Features-area .farea-right .features-item .list-item-inner .item-img .item-icon ul li a i {
+        font-size: 13px;
+        width: 25px;
+        height: 25px;
+        line-height: 25px;
+        margin: 3px 0;
+    }
+
+    .Features-area .farea-right .features-item .list-item-inner .item-img .item-icon {
+        right: 15px;
+    }
+
+    .Features-area .farea-right .features-item .list-item-inner .item-text .review i {
+        font-size: 12px;
+    }
+
+    .Features-area .farea-right .features-item .list-item-inner .item-cart a i {
+        font-size: 13px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .Features-area .farea-right .features-item .list-item-inner .item-cart {
+        position: absolute;
+        right: 8px;
+        bottom: 15px;
+    }
+
+    /* ------------------- feature page end --------------- */
+
+    /* ------------------- Guide and tips page start --------------- */
+    .guide-bread-text h1 {
+        font-size: 30px;
+    }
+
+    .guide-bread-text span {
+        font-size: 17px;
+    }
+
+    .guide-bread-text span a {
+        font-size: 17px;
+    }
+
+    .guide-body .post-btm-comment .post-comment-input textarea {
+        width: 100%;
+
+    }
+
+    .guide-body .post-btm-comment .post-comment-input input {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .guide-body .post-btm-comment .post-comment-input button {
+        width: 100%;
+    }
+
+    /* ------------------- Guide and tips page end --------------- */
+
+    /* ------------------- brands page start --------------- */
+    .feat-brad-title h2 {
+        font-size: 30px;
+    }
+    .pop-brad-title h2 {
+        font-size: 30px;
+    }
+    .populer-brand-row {
+        justify-content: center;
+    }
+    .pop-article-title h2 {
+        font-size: 30px;
+    }
+    .article-area .article-slider .article-slider-item {
+        padding-bottom: 150px;
+    }
+    /* ------------------- brands page end --------------- */
+
+}
+
+
+
+@media (min-width: 400px) and (max-width: 575.99px) {
+    .service-row .service-item {
+        width: 43%;
+    }
+
+    .choose-area ul li p {
+        padding-right: 30px;
+    }
+
+    .choose-area ul li::after {
+        height: 101%;
+    }
+
+    .partner-area .partner-item {
+        width: 43%;
+    }
+
+    .quick {
+        text-align: center;
+    }
+
+    .product-area .prod-area-left ul li {
+        width: 100%;
+        text-align: center;
+    }
+
+    .selling-item .itmes-slider .item-inner .item-img .item-icon {
+        right: 15px;
+        top: 28%;
+    }
+
+    .blog-area .blog-slider .slider-item {
+        padding-bottom: 80px;
+    }
+}
+
+/* ========================= Extra small area end ======================= */
+
+/* =========================  small area start ======================= */
+@media (min-width: 576px) and (max-width: 767.99px) {
+    .res-head-logo a img {
+        transform: scale(1.2);
+        -webkit-transform: scale(1.2);
+        -moz-transform: scale(1.2);
+        -ms-transform: scale(1.2);
+        -o-transform: scale(1.2);
+    }
+
+    .cate-header {
+        margin-bottom: 50px;
+    }
+
+    .cat-slider-items {
+        margin: 0 12px;
+    }
+
+    .selling-header {
+        margin-bottom: 50px;
+    }
+
+    .selling-items .itmes-slider .item-inner .item-cart a i {
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .selling-items .itmes-slider .item-inner .item-cart {
+        right: 8px;
+        bottom: 18px;
+    }
+
+    .selling-items .itmes-slider .item-inner .item-img .item-icon {
+        right: 15px;
+    }
+
+    .selling-items .itmes-slider .item-inner .item-img .item-icon ul li a i {
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .selling-bottom {
+        margin-top: 50px;
+    }
+
+    .selling-bottom .sellb-img {
+        margin-bottom: 30px;
+    }
+
+    .product-items .pitmes-slider .item-inner .item-img .item-icon {
+        right: 18px;
+    }
+
+    .product-items .pitmes-slider .item-inner .item-img .item-icon ul li a i {
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .smcenter {
+        align-items: center;
+    }
+
+    .product-area .prod-area-left {
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+
+    .product-area .prod-area-left ul li {
+        width: 100%;
+        text-align: center;
+    }
+
+    .product-items .pitmes-slider .item-inner .item-cart a i {
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .product-items .pitmes-slider .item-inner .item-cart {
+        right: 10px;
+    }
+
+    .arrivals-head {
+        margin-bottom: 40px;
+    }
+
+    .arrivals-btm {
+        background: url(../images/bg-support-pet.jpg) no-repeat center/cover !important;
+    }
+
+    .arrivals-btm .arrib-left {
+        margin-bottom: 110px;
+    }
+
+    #service {
+        margin: 50px 0;
+    }
+
+    .service-head .head-right button {
+        padding: 10px 25px;
+    }
+
+    .service-row {
+        flex-wrap: wrap;
+    }
+
+    .service-row .service-item {
+        margin-bottom: 30px;
+        text-align: center;
+    }
+
+    .service-row .service-item .serv-info .read a {
+        margin-top: 10px;
+    }
+
+    #choose {
+        padding: 50px 0;
+    }
+
+    .choose-area ul li::after {
+        height: 101%;
+    }
+
+    #partner {
+        margin-top: 70px;
+    }
+
+    .partner-head {
+        margin-bottom: 45px;
+    }
+
+    .partner-area .partner-item {
+        width: 32%;
+    }
+
+    .blog-head {
+        margin-bottom: 45px;
+    }
+
+    .blog-area .blog-slider .slider-item {
+        padding-bottom: 170px;
+    }
+
+    .blog-area .blog-slider .slider-item .slider-text .text-inner {
+        padding: 20px 25px 20px;
+    }
+
+    .footer-top {
+        padding-top: 50px;
+    }
+
+    .footer-top .fot-topl p {
+        padding-right: 203px;
+    }
+
+    .footer-top .fot-topl .call {
+        margin-bottom: 40px;
+    }
+
+    .fot-topr {
+        margin-top: 30px;
+    }
+
+    .footer-top .fot-topr .input form input {
+        width: 380px;
+    }
+
+    .footer-btm {
+        text-align: center;
+    }
+
+    .fot-btmr {
+        text-align: center !important;
+        margin-top: 20px;
+    }
+
+    .cate-slider .cat-button .Cprev-arrow {
+        right: -26px;
+        top: 35%;
+    }
+
+    .cate-slider .cat-button .Cnext-arrow {
+        left: -26px;
+        top: 35%;
+    }
+
+    /* ------------------ blog page area start -------------------- */
+    #breadcum {
+        padding: 60px 0 !important;
+        margin-bottom: 60px;
+    }
+
+    .bread-text span {
+        font-size: 22px;
+    }
+
+    .bread-text span a {
+        font-size: 22px;
+    }
+
+    .blog-row .blog-post .blog-post-text .blog-post-description p {
+        display: none;
+    }
+
+    .blog-post-btn {
+        display: none;
+    }
+
+    .blog-post-sidebar .blog-sidebar-item .search .search-input input {
+        width: 100%;
+    }
+
+    .blog-post-sidebar .blog-sidebar-item .recentpost .recent-post-item .recent-post-text a {
+        padding-right: 100px;
+    }
+
+    .blog-post-sidebar .blog-sidebar-item .blog-Tag .blog-Tag-item li {
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-bottom: 20px;
+    }
+
+    .blog-row .blog-post {
+        margin-bottom: 30px;
+    }
+
+    /* ------------------ blog page area end -------------------- */
+
+    /* ------------------ About us  page area start -------------------- */
+    #aboutus {
+        margin: 50px 0;
+    }
+
+    .customer-service .service-text .text-title h2 {
+        margin-top: 20px;
+    }
+
+    .team-row {
+        flex-wrap: wrap;
+    }
+
+    .team .team-row .team-item {
+        width: 200px;
+        text-align: center;
+        margin-bottom: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* ------------------ about us page area end -------------------- */
+
+    /* ------------------ best seller page area start -------------------- */
+    .best-selliing-nav button {
+        margin: 0 7px;
+        margin-bottom: 15px;
+    }
+
+    .best-selliing-nav {
+        text-align: center;
+    }
+
+    .selling-item .itmes-slider .item-inner .item-img .item-icon {
+        right: 15px;
+        top: 20%;
+        transform: translateY(-30%);
+        -webkit-transform: translateY(-30%);
+        -moz-transform: translateY(-30%);
+        -ms-transform: translateY(-30%);
+        -o-transform: translateY(-30%);
+    }
+
+    /* ------------------ best seller page area end -------------------- */
+
+    /* ------------------- contact  page start --------------- */
+    .contact-info-right .info-form input {
+        width: 100%;
+    }
+
+    .contact-info {
+        margin: 30px 0;
+    }
+
+    .identity {
+        display: block !important;
+    }
+
+    .contact-info-right .info-form .contact-info-btn button {
+        width: 100%;
+    }
+
+    /* ------------------- contact  page end --------------- */
+
+    /* ------------------- Customer login page start --------------- */
+    #customer-login {
+        margin: 30px 0;
+    }
+
+    .login-content .register-customer .login-information .submit-btn button {
+        margin-bottom: 20px;
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .login-content .register-customer .login-information .submit-btn a {
+        display: block;
+        text-align: center;
+    }
+
+    .login-content .register-customer,
+    .login-content .new-customer {
+        min-height: 300px;
+    }
+
+    .login-content .new-customer button {
+        margin-right: 0;
+        width: 100%;
+    }
+
+    /* ------------------- Customer login page end --------------- */
+
+    /* ------------------- faqs page start --------------- */
+    .faq-accordion .faq-accordion-title h5 {
+        font-size: 20px
+    }
+
+    .faq-accordion .accordion-item .accordion-button {
+        border: none;
+        box-shadow: none;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    /* ------------------- faqs page end --------------- */
+
+    /* ------------------- shop page start --------------- */
+
+
+    .res-shop-area-left {
+        position: fixed;
+        left: -200%;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.8);
+        z-index: 9999999;
+        overflow: scroll;
+        transition: all linear .2s;
+        -webkit-transition: all linear .2s;
+        -moz-transition: all linear .2s;
+        -ms-transition: all linear .2s;
+        -o-transition: all linear .2s;
+    }
+
+    .sarea-left {
+        background: #fff;
+        padding-top: 70px;
+        width: 320px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+    }
+
+    .shop-area .sarea-left .price .price-range .bar input {
+        width: 100%;
+    }
+
+    .shop-area .sarea-right .shop-item .list-item-inner .item-img .item-icon {
+        right: 15px;
+    }
+
+    .shop-area .sarea-right .shop-item .list-item-inner .item-text .review i {
+        font-size: 12px;
+    }
+
+    .shop-area .sarea-right .shop-item .list-item-inner .item-cart {
+        position: absolute;
+        right: 8px;
+        bottom: 15px;
+    }
+
+    /* ------------------- shop page end --------------- */
+
+    /* ------------------- feature page start --------------- */
+
+
+    .res-feature-area-left {
+        position: fixed;
+        left: -200%;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.8);
+        z-index: 9999999;
+        overflow: scroll;
+        transition: all linear .2s;
+        -webkit-transition: all linear .2s;
+        -moz-transition: all linear .2s;
+        -ms-transition: all linear .2s;
+        -o-transition: all linear .2s;
+    }
+
+    .farea-left {
+        background: #fff;
+        padding-top: 70px;
+        width: 320px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+    }
+
+    .Features-area .farea-left .price .price-range .bar input {
+        width: 100%;
+    }
+
+    .Features-area .farea-right .features-item .list-item-inner .item-img .item-icon {
+        right: 15px;
+    }
+
+    .Features-area .farea-right .features-item .list-item-inner .item-text .review i {
+        font-size: 12px;
+    }
+
+    .Features-area .farea-right .features-item .list-item-inner .item-cart {
+        position: absolute;
+        right: 8px;
+        bottom: 15px;
+    }
+
+    /* ------------------- feature page end --------------- */
+
+
+    /* ------------------- Guide and tips page start --------------- */
+    .guide-bread-text h1 {
+        font-size: 35px;
+    }
+
+    .guide-bread-text span {
+        font-size: 20px;
+    }
+
+    .guide-bread-text span a {
+        font-size: 17px;
+    }
+
+    .guide-body .post-btm-comment .post-comment-input textarea {
+        width: 100%;
+
+    }
+
+    .guide-body .post-btm-comment .post-comment-input input {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .guide-body .post-btm-comment .post-comment-input button {
+        width: 100%;
+    }
+
+    /* ------------------- Guide and tips page end --------------- */
+
+    
+    /* ------------------- brands page start --------------- */
+    .populer-brand-row {
+        justify-content: space-between;
+    }
+    .article-area .article-slider .article-slider-item {
+        padding-bottom: 160px;
+    }
+    .article-area .article-slider .article-slider-item .article-slider-text .article-text-inner {
+        padding: 20px 24px 20px;
+    }
+    /* ------------------- brands page end --------------- */
+
+}
+
+/* =========================  small area end ======================= */
+
+
+
+
+/* =========================  Medium area start ======================= */
+@media (min-width: 768px) and (max-width: 991.99px) {
+    .res-head-logo a img {
+        transform: scale(1.3);
+        -webkit-transform: scale(1.3);
+        -moz-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        -o-transform: scale(1.3);
+    }
+
+    .cat-slider-items {
+        margin: 0 12px;
+    }
+
+    .cate-slider .cat-button .Cprev-arrow {
+        right: -26px;
+        top: 35%;
+    }
+
+    .cate-slider .cat-button .Cnext-arrow {
+        left: -26px;
+        top: 35%;
+    }
+
+    .selling-items .itmes-slider .item-inner .item-cart a i {
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .selling-items .itmes-slider .item-inner .item-cart {
+        right: 10px;
+    }
+
+    .selling-items .itmes-slider .item-inner .item-img .item-icon ul li a i {
+        font-size: 13px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .selling-items .itmes-slider .item-inner .item-img .item-icon {
+        right: 12px;
+    }
+
+    .selling-bottom {
+        margin-top: 50px;
+    }
+
+    .product-area .prod-area-left ul li {
+        width: 189px;
+        padding: 10px 10px 10px 36px;
+        margin-bottom: 9px;
+    }
+
+    .product-area .prod-area-left {
+        padding: 30px 30px 17px 15px;
+    }
+
+    .product-items .pitmes-slider .item-inner .item-cart {
+        right: 10px;
+        bottom: 10px;
+    }
+
+    .arrivals-head {
+        margin-bottom: 50px;
+    }
+
+    .arrivals-area .arrivals-item .shop-icon {
+        right: 5px;
+        bottom: 10px;
+    }
+
+    .arrivals-btm {
+        background: url(../images/bg-support-pet.jpg) no-repeat center/cover !important;
+    }
+
+    .arrib-left {
+        margin-bottom: 106px;
+    }
+
+    .service-row {
+        flex-wrap: wrap;
+        justify-content: unset !important;
+    }
+
+    .service-row .service-item {
+        width: 28%;
+        margin: 10px 12px;
+    }
+
+    .partner-area .partner-item {
+        width: 32%;
+    }
+
+    .blog-head {
+        margin-bottom: 50px;
+    }
+
+    .footer-top .fot-topl .call {
+        margin-bottom: 40px;
+    }
+
+    .footer-top .fot-topr .input form input {
+        width: 400px;
+        display: inline-block;
+    }
+
+    .footer-top .fot-topr .input button {
+        right: 184px;
+    }
+
+    /* ---------------------Blog page area start ------------------ */
+    #breadcum {
+        margin-bottom: 60px !important;
+        padding: 30px 0 !important;
+    }
+
+    .blog-row .blog-post .blog-post-text .blog-post-category a {
+        font-size: 14px;
+    }
+
+    .blog-row .blog-post {
+        margin-bottom: 40px;
+    }
+
+    .blog-post-sidebar .blog-sidebar-item .search .search-input input {
+        width: 100%;
+    }
+
+    .blog-post-sidebar .blog-sidebar-item .blog-Tag .blog-Tag-item li {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    /* ---------------------Blog page area end ------------------ */
+
+    /* ---------------------about us page area start ------------------ */
+    #aboutus {
+        margin: 40px 0;
+    }
+
+    .team-row {
+        flex-wrap: wrap;
+    }
+
+    .team .team-row .team-item {
+        width: 200px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 30px;
+    }
+
+    /* ---------------------about us page area end ------------------ */
+
+    /* ---------------------best seller page area start ------------------ */
+    .selling-item .itmes-slider .item-inner .item-img .item-icon {
+        right: 13px;
+        top: 26%;
+        transform: translateY(-50%);
+    }
+
+    .selling-item .itmes-slider .item-inner .item-cart a i {
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .selling-item .itmes-slider .item-inner .item-cart {
+        right: 10px;
+    }
+
+    .best-selliing-nav {
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    /* ---------------------best seller us page area end ------------------ */
+    /* ------------------- contact  page start --------------- */
+    .contact-info-right .info-form input {
+        width: 100%;
+    }
+
+    .contact-info {
+        margin: 30px 0;
+    }
+
+    .identity {
+        display: block !important;
+    }
+
+    .contact-info-right .info-form .contact-info-btn button {
+        width: 100%;
+    }
+
+    /* ------------------- contact  page end --------------- */
+
+    /* ------------------- Customer login page start --------------- */
+    #customer-login {
+        margin: 30px 0;
+    }
+
+    .login-content .register-customer .login-information .submit-btn button {
+        margin-bottom: 20px;
+        margin-right: 0;
+        width: 100%;
+    }
+
+    .login-content .register-customer .login-information .submit-btn a {
+        display: block;
+        text-align: center;
+    }
+
+    .login-content .register-customer,
+    .login-content .new-customer {
+        min-height: 350px;
+    }
+
+    .login-content .new-customer button {
+        margin-right: 0;
+        width: 100%;
+    }
+
+    /* ------------------- Customer login page end --------------- */
+
+    /* ------------------- faqs page start --------------- */
+    .faq-accordion .faq-accordion-title h5 {
+        font-size: 20px
+    }
+
+    .faq-accordion .accordion-item .accordion-button {
+        border: none;
+        box-shadow: none;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    /* ------------------- faqs page end --------------- */
+
+    /* ------------------- shop page start --------------- */
+
+
+    .res-shop-area-left {
+        position: fixed;
+        left: -200%;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.8);
+        z-index: 9999999;
+        overflow: scroll;
+        transition: all linear .2s;
+        -webkit-transition: all linear .2s;
+        -moz-transition: all linear .2s;
+        -ms-transition: all linear .2s;
+        -o-transition: all linear .2s;
+    }
+
+    .sarea-left {
+        background: #fff;
+        padding-top: 70px;
+        width: 320px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+    }
+
+    .shop-area .sarea-left .price .price-range .bar input {
+        width: 100%;
+    }
+
+    .shop-area .sarea-right .shop-item .list-item-inner .item-img .item-icon {
+        right: 15px;
+    }
+
+    .shop-area .sarea-right .shop-item .list-item-inner .item-text .review i {
+        font-size: 12px;
+    }
+
+    .shop-area .sarea-right .shop-item .list-item-inner .item-cart {
+        position: absolute;
+        right: 8px;
+        bottom: 15px;
+    }
+
+    /* ------------------- shop page end --------------- */
+
+    /* ------------------- feature page start --------------- */
+
+
+    .res-feature-area-left {
+        position: fixed;
+        left: -200%;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.8);
+        z-index: 9999999;
+        overflow: scroll;
+        transition: all linear .2s;
+        -webkit-transition: all linear .2s;
+        -moz-transition: all linear .2s;
+        -ms-transition: all linear .2s;
+        -o-transition: all linear .2s;
+    }
+
+    .farea-left {
+        background: #fff;
+        padding-top: 70px;
+        width: 320px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 50px;
+    }
+
+    .Features-area .farea-left .price .price-range .bar input {
+        width: 100%;
+    }
+
+    .Features-area .farea-right .features-item .list-item-inner .item-img .item-icon {
+        right: 15px;
+    }
+
+    .Features-area .farea-right .features-item .list-item-inner .item-text .review i {
+        font-size: 12px;
+    }
+
+    .Features-area .farea-right .features-item .list-item-inner .item-cart {
+        position: absolute;
+        right: 8px;
+        bottom: 15px;
+    }
+
+    /* ------------------- feature page end --------------- */
+
+
+    /* ------------------- Guide and tips page start --------------- */
+    .guide-bread-text h1 {
+        font-size: 30px;
+    }
+
+    .guide-bread-text span {
+        font-size: 20px;
+    }
+
+    .guide-bread-text span a {
+        font-size: 17px;
+    }
+
+    .guide-body .post-btm-comment .post-comment-input textarea {
+        width: 100%;
+
+    }
+
+    .guide-body .post-btm-comment .post-comment-input input {
+        width: 48%;
+        margin-bottom: 15px;
+    }
+
+    .guide-body .post-btm-comment .post-comment-input button {
+        width: 100%;
+    }
+
+    /* ------------------- Guide and tips page end --------------- */
+
+
+    /* ------------------- brands page start --------------- */
+    .populer-brand-row {
+        justify-content: center;
+    }
+    .populer-brand-row .populer-brand-item a{
+        display: block;
+    }
+
+    .populer-brand-row .populer-brand-item {
+        margin: 0 12px;
+        margin-bottom: 20px;
+        width: 200px;
+    }
+    .article-area .article-slider .article-slider-item {
+        padding-bottom: 160px;
+    }
+    .article-area .article-slider .article-slider-item .article-slider-text .article-text-inner {
+        padding: 20px 24px 20px;
+    }
+    /* ------------------- brands page end --------------- */
+    
+}
+
+/* =========================  Medium area end ======================= */
+
+/* =========================  large area start ======================= */
+
+@media (min-width: 992px) and (max-width: 1199.99px) {
+    .header-middle .hm-right .hmr-left ul li {
+        margin-left: 15px;
+    }
+
+    .header-middle .hm-right .hmr-right ul li>a i {
+        font-size: 23px;
+        margin-left: 16px;
+    }
+
+    .cat-slider-items {
+        margin: 0 12px;
+    }
+
+    .cate-slider .cat-button .Cnext-arrow {
+        left: -26px;
+        top: 35%;
+    }
+
+    .cate-slider .cat-button .Cprev-arrow {
+        right: -26px;
+        top: 35%;
+    }
+
+    .selling-items .itmes-slider .item-inner .item-img .item-icon {
+        right: 15px;
+    }
+
+    .selling-items .itmes-slider .item-inner .item-cart a i {
+        font-size: 12px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .selling-items .itmes-slider .item-inner .item-cart {
+        right: 10px;
+        bottom: 12px;
+    }
+
+    .product-area .prod-area-left ul li a {
+        font-size: 15px;
+    }
+
+    .product-area .prod-area-left ul li {
+        width: 190px;
+        padding: 10px 20px 10px 35px;
+        margin-bottom: 10px;
+    }
+
+    .product-area .prod-area-left {
+        padding: 25px 20px 17px 20px;
+    }
+
+    .product-area .prod-area-left ul li::after {
+        left: 15px;
+        bottom: 17px;
+
+    }
+
+    .product-items .pitmes-slider .item-inner .item-cart a i {
+        font-size: 12px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .product-items .pitmes-slider .item-inner .item-cart {
+        right: 13px;
+        bottom: 13px;
+    }
+
+    .arrivals-area .arrivals-item .shop-icon i {
+        font-size: 12px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .arrivals-area .arrivals-item .shop-icon {
+        right: 8px;
+        bottom: 8px;
+    }
+
+    .service-row .service-item {
+        margin: 0 12px;
+        padding: 15px 10px;
+    }
+
+    .service-row .service-item .serv-info .read a {
+        margin-top: 10px;
+    }
+
+    .choose-area ul li::after {
+        height: 102%;
+    }
+
+    .partner-area .partner-item {
+        width: 209px;
+        margin-bottom: 20px;
+        border: 1px solid #eee;
+        transition: all linear .2s;
+        margin-left: 12px;
+        margin-right: 12px;
+    }
+
+    .partner-area {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: unset;
+    }
+
+    .blog-area .blog-slider .slider-item .slider-text .text-inner .text-middle a {
+        font-size: 16px;
+    }
+
+    .blog-area .blog-slider .slider-item .slider-text .text-inner {
+        padding-top: 15px;
+    }
+
+    .footer-top .fot-topr .input button {
+        padding: 11px 20px;
+    }
+
+    .footer-top .fot-topr .input form input {
+        width: 194px;
+    }
+
+    .footer-top .fot-topr .input form input::placeholder {
+        font-size: 12px;
+    }
+
+    .hm-left .megamenu-item .megamenu .megamenu-col .mgm-item {
+        width: 211px;
+    }
+
+    .hm-left .megamenu-item .megamenu {
+        padding: 30px 35px 25px 35px;
+    }
+
+    .hm-left .megamenu-item .megamenu {
+        left: -128px;
+    }
+
+    .header-middle .hm-left .menu_item .mymenu {
+        padding: 40px 10px;
+    }
+
+    .hm-left .menu_item .mymenu .mega-col .mega-menu-item ul li a {
+        font-size: 13px;
+    }
+
+    .mega-menu-item {
+        width: 180px !important;
+    }
+
+    .mega-menu-item img {
+        height: 136px;
+        object-fit: cover;
+        margin-top: 75px;
+    }
+
+    /* ------------------- blog page area start ----------------- */
+    .blog-post-sidebar .blog-sidebar-item .search {
+        padding: 15px;
+    }
+
+    .blog-post-sidebar .blog-sidebar-item .search .search-input input {
+        width: 100%;
+    }
+
+    .blog-post-sidebar .blog-sidebar-item .search .search-input i {
+        right: 10px;
+    }
+
+    .blog-post-sidebar .blog-sidebar-item .blog-Category .blog-cat-item {
+        margin: 10px 20px;
+    }
+
+    .blog-post-sidebar .blog-sidebar-item .blog-Tag .blog-Tag-item {
+        margin: 25px 10px;
+    }
+
+    .blog-post-sidebar .blog-sidebar-item .blog-Tag .blog-Tag-item li {
+        margin: 0 5px 15px 5px;
+    }
+
+    .blog-row .blog-post {
+        margin-bottom: 40px;
+    }
+
+    /* ------------------- blog page area end ----------------- */
+
+    /* ------------------- About us page area start ----------------- */
+    .team .team-row .team-item {
+        width: 170px;
+    }
+
+    /* ------------------- about us page area end ----------------- */
+
+    /* ------------------- best selling page area start ----------------- */
+    .selling-item .itmes-slider .item-inner .item-cart a i {
+        font-size: 14px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .selling-item .itmes-slider .item-inner .item-cart {
+        right: 10px;
+    }
+
+    .best-selliing-nav {
+        margin-bottom: 45px;
+        text-align: center;
+    }
+
+    .selling-item .itmes-slider .item-inner .item-img .item-icon {
+        right: 15px;
+        top: 26%;
+    }
+
+    /* ------------------- best selling page area end ----------------- */
+
+    /* ------------------- Contact page area start ----------------- */
+    .contact-info-right .name {
+        width: 48%;
+    }
+
+    .contact-info-right .info-form .email {
+        width: 48%;
+    }
+
+    /* ------------------- Contact page area end ----------------- */
+
+    /* ------------------- faqs page start --------------- */
+    .faq-accordion .faq-accordion-title h5 {
+        font-size: 20px
+    }
+
+    .faq-accordion .accordion-item .accordion-button {
+        border: none;
+        box-shadow: none;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    /* ------------------- faqs page end --------------- */
+
+    /* ------------------- shop page start --------------- */
+    .shop-area .sarea-left .price .price-range .bar input {
+        width: 100%;
+    }
+
+    .shop-area .sarea-right .shop-item .list-item-inner .item-cart {
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+    }
+
+    .shop-item-wrapper .shop-product .product-cart-area button {
+        width: 140px;
+    }
+
+    /* ------------------- shop page end --------------- */
+
+    /* ------------------- feature page start --------------- */
+    .Features-area .farea-left .price .price-range .bar input {
+        width: 100%;
+    }
+
+    .Features-area .farea-right .features-item .list-item-inner .item-cart {
+        position: absolute;
+        right: 10px;
+        bottom: 10px;
+    }
+
+    .features-item-wrapper .features-product .product-cart-area button {
+        width: 140px;
+    }
+
+    /* ------------------- feature page end --------------- */
+
+    /* ------------------- Guide and tips page start --------------- */
+    .guide-body .post-btm-comment .post-comment-input textarea {
+        width: 100%;
+
+    }
+
+    .guide-body .post-btm-comment .post-comment-input input {
+        width: 48%;
+        margin-bottom: 15px;
+    }
+
+    .guide-body .post-btm-comment .post-comment-input button {
+        width: 30%;
+    }
+
+    /* ------------------- Guide and tips page end --------------- */
+
+    
+    /* ------------------- brands page start --------------- */
+    .populer-brand-row {
+        justify-content: center;
+    }
+    .populer-brand-row .populer-brand-item a{
+        display: block;
+    }
+
+    .populer-brand-row .populer-brand-item {
+        margin: 0 12px;
+        margin-bottom: 20px;
+        width: 200px;
+    }
+    .article-area .article-slider .article-slider-item {
+        padding-bottom: 120px;
+    }
+    .article-area .article-slider .article-slider-item .article-slider-text .article-text-inner {
+        padding: 20px 24px 20px;
+    }
+    /* ------------------- brands page end --------------- */
+
+}
+
+/* =========================  large area end ======================= */
+
+/* ========================= Extra large area start ======================= */
+
+@media (min-width:1200px) and (max-width: 1399.99px) {
+    .header-middle .hm-right .hmr-right ul li>a i {
+        font-size: 20px;
+        margin-left: 20px;
+    }
+
+    .cate-slider .cat-button .Cnext-arrow {
+        left: -21px;
+        top: 38%;
+    }
+
+    .cate-slider .cat-button .Cprev-arrow {
+        right: -21px;
+        top: 38%;
+    }
+
+    .mega-menu-item {
+        width: 187px !important;
+    }
+
+    .header-middle .hm-left .menu_item .mymenu {
+        padding: 40px 10px;
+    }
+
+    .mega-menu-item-img {
+        width: 310px !important;
+    }
+
+    element {
+        height: 237px;
+    }
+
+    .hm-left .megamenu-item .megamenu .megamenu-col .mgm-item {
+        width: 250px;
+    }
+
+    .arrivals-area .arrivals-item .shop-icon {
+        right: 15px;
+        bottom: 15px;
+    }
+
+    .service-item {
+        margin: 0 12px;
+    }
+
+    .service-row .service-item {
+        padding: 20px 15px;
+    }
+
+    .service-row .service-item .serv-info .read a {
+        margin-top: 10px;
+    }
+
+    .partner-area .partner-item {
+        margin-left: 12px;
+        margin-right: 12px;
+        margin-bottom: 20px;
+        width: 199px;
+    }
+
+    .partner-area {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: unset;
+    }
+
+    .footer-top .fot-topr .input button {
+        padding: 11px 17px;
+    }
+
+    .footer-top .fot-topr .input form input {
+        padding: 10px 15px;
+        border: 0;
+        background: #fff;
+        width: 262px;
+    }
+
+    .footer-top .fot-topr .input form input::placeholder {
+        font-size: 13px;
+    }
+
+    /* ------------------ about us page area start -------------------- */
+    .team .team-row .team-item {
+        width: 200px;
+        text-align: center;
+    }
+
+    /* ------------------ about us page area end -------------------- */
+
+    /* ------------------ best selling page area start -------------------- */
+    .best-selliing-nav {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    .selling-item .itmes-slider .item-inner .item-img .item-icon {
+        right: 20px;
+        top: 30%;
+    }
+
+    /* ------------------ best selling page area end -------------------- */
+
+    /* ------------------- Contact page area start ----------------- */
+    .contact-info-right .name {
+        width: 48%;
+    }
+
+    .contact-info-right .info-form .email {
+        width: 48%;
+    }
+
+    /* ------------------- Contact page area end ----------------- */
+
+    /* ------------------- faqs page start --------------- */
+    .faq-accordion .faq-accordion-title h5 {
+        font-size: 20px
+    }
+
+    .faq-accordion .accordion-item .accordion-button {
+        border: none;
+        box-shadow: none;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    /* ------------------- faqs page end --------------- */
+
+    /* ------------------- shop page start --------------- */
+    .shop-item-wrapper .shop-product .product-cart-area button {
+        width: 180px;
+    }
+
+    /* ------------------- faqs page end --------------- */
+
+    /* ------------------- shop page start --------------- */
+    .features-item-wrapper .features-product .product-cart-area button {
+        width: 180px;
+    }
+
+    /* ------------------- faqs page end --------------- */
+
+
+    /* ------------------- Guide and tips page start --------------- */
+    .guide-body .post-btm-comment .post-comment-input textarea {
+        width: 100%;
+
+    }
+
+    .guide-body .post-btm-comment .post-comment-input input {
+        width: 48%;
+        margin-bottom: 15px;
+    }
+
+    .guide-body .post-btm-comment .post-comment-input button {
+        width: 30%;
+    }
+
+    /* ------------------- Guide and tips page end --------------- */
+
+    /* ------------------- brands page start --------------- */
+    .populer-brand-row {
+        justify-content: center;
+    }
+    .populer-brand-row .populer-brand-item a{
+        display: block;
+    }
+
+    .populer-brand-row .populer-brand-item {
+        margin: 0 12px;
+        margin-bottom: 20px;
+    }
+
+    .article-area .article-slider .article-slider-item .article-slider-text .article-text-inner {
+        padding: 20px 24px 20px;
+    }
+    /* ------------------- brands page end --------------- */    
+
+}
+
+/* ========================= Extra large area end ======================= */
+
+/* ========================= Extra extra large area start ======================= */
+@media (min-width: 1400px) {
+    .hm-left .megamenu-item .megamenu {
+        left: -183px;
+        padding: 30px 25px 25px 25px;
+    }
+
+    .header-middle .hm-left .menu_item .mymenu {
+        padding: 40px 25px;
+    }
+
+    .mega-menu-item {
+        width: 215px !important;
+    }
+
+    .mega-menu-item-img {
+        width: 345px !important;
+    }
+
+    /* ------------------ best selling page area start -------------------- */
+    .best-selliing-nav {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    .selling-item .itmes-slider .item-inner .item-img .item-icon {
+        right: 20px;
+        top: 30%;
+    }
+
+    /* ------------------ best selling page area end -------------------- */
+
+    /* ------------------- Contact page area start ----------------- */
+    .contact-info-right .name {
+        width: 48%;
+    }
+
+    .contact-info-right .info-form .email {
+        width: 48%;
+    }
+
+    /* ------------------- Contact page area end ----------------- */
+
+    /* ------------------- faqs page start --------------- */
+    .faq-accordion .faq-accordion-title h5 {
+        font-size: 20px
+    }
+
+    .faq-accordion .accordion-item .accordion-button {
+        border: none;
+        box-shadow: none;
+        font-size: 15px;
+        font-weight: 500;
+    }
+
+    /* ------------------- faqs page end --------------- */
+
+}
+
+/* ========================= Extra extra large area end ======================= */
